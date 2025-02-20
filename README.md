@@ -1,9 +1,9 @@
-# Drum-kit-Project
+<img width="1399" alt="Screenshot 2025-02-20 at 5 59 51 PM copy" src="https://github.com/user-attachments/assets/97e7239d-e357-4985-9090-b728f16beb25" /># Drum-kit-Project
 
 
  DRUM KIT
  A fun and interactive drum kit application built using HTML, CSS, and JavaScript. Click on the drum buttons or press the corresponding keys on your keyboard to play different drum sounds!
-
+ <img width="1399" alt="Screenshot 2025-02-20 at 5 59 51 PM copy" src="https://github.com/user-attachments/assets/97e7239d-e357-4985-9090-b728f16beb25" />
 Features
 Play different drum sounds by clicking on buttons or pressing keys.
 Interactive animations when a drum is played.
